@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Rahmat 👋
+
+![Rahmat](img/github-header-banner.png)
 
 <!--
 **rahmathr/rahmathr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
